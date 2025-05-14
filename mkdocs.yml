@@ -1,0 +1,6 @@
+site_name: "WhisperTrack Docs"
+docs_dir: "docs"
+markdown_extensions:
+  - pymdownx.inlinehilite
+  - pymdownx.emoji
+  - pymdownx.magiclink
