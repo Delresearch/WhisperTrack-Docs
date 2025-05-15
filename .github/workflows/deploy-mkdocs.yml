@@ -1,11 +1,11 @@
 on:
   push:
-    branches:
-      - master 
 permissions:
   contents: write
+  pages: write
+  id-token: write
 jobs:
-  deploy:
+  build:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
@@ -24,4 +24,24 @@ jobs:
           restore-keys: |
             mkdocs-material-
       - run: pip install mkdocs-material 
-      - run: mkdocs gh-deploy --force
+      - run: mkdocs build
+      - name: Upload site folder as artifact
+        uses: actions/upload-artifact@v3
+        with:
+          name: site
+          path: site
+  deploy:
+    if: github.ref == 'refs/heads/master'
+    runs-on: ubuntu-latest
+    needs: build
+    steps:
+      - name: Set up Pages
+        uses: actions/configure-pages@v5
+
+      - name: Upload site folder
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: site  # Replace with your folder
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
