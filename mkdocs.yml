@@ -4,3 +4,6 @@ markdown_extensions:
   - pymdownx.inlinehilite
   - pymdownx.emoji
   - pymdownx.magiclink
+plugins:
+  - search
+  - awesome-nav
