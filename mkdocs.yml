@@ -3,6 +3,10 @@ docs_dir: "docs"
 theme:
   name: material
   custom_dir: "overrides"
+  palette:
+    primary: blue
+  features:
+    - navigation.tabs
 extra_css:
   - assets/css/hide-nav-title.css
 markdown_extensions:
@@ -15,12 +19,15 @@ markdown_extensions:
       options:
         custom_icons:
           - overrides/.icons
+  - attr_list
 plugins:
   - search
   - awesome-nav
+  - mkdocs-pdf
+  - external-markdown
 extra:
   generator: false
 extra:
   social:
     - icon: popoto/popoto-logo-blue-with-text
-      link: https://twitter.com/squidfunk
+      link: https://www.popotomodem.com/

@@ -1,0 +1,348 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   sodipodi:docname="drawing.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="3.1251122"
+     inkscape:cx="264.79049"
+     inkscape:cy="462.06341"
+     inkscape:window-width="1920"
+     inkscape:window-height="1057"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <marker
+       style="overflow:visible"
+       id="marker1688"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="TriangleStart"
+       markerWidth="5.3244081"
+       markerHeight="6.155385"
+       viewBox="0 0 5.3244081 6.1553851"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path1686" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleStart"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="TriangleStart"
+       markerWidth="5.3244081"
+       markerHeight="6.155385"
+       viewBox="0 0 5.3244081 6.1553851"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path135" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleStart-2"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="TriangleStart"
+       markerWidth="5.3244081"
+       markerHeight="6.155385"
+       viewBox="0 0 5.3244081 6.1553851"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path135-9" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleStart-2-4"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="TriangleStart"
+       markerWidth="5.3244081"
+       markerHeight="6.155385"
+       viewBox="0 0 5.3244081 6.1553851"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path135-9-5" />
+    </marker>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:none;fill-rule:evenodd;stroke:#333333;stroke-width:0.203;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect111"
+       width="29.462942"
+       height="17.356043"
+       x="32.172176"
+       y="88.388824"
+       ry="1.1006272"
+       rx="1.0159636" />
+    <rect
+       style="fill:none;fill-rule:evenodd;stroke:#333333;stroke-width:0.2522;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect111-6"
+       width="36.356159"
+       height="21.709351"
+       x="28.04826"
+       y="133.24281"
+       ry="1.3766906"
+       rx="1.2536607" />
+    <rect
+       style="fill:none;fill-rule:evenodd;stroke:#333333;stroke-width:0.203;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect111-9"
+       width="29.462942"
+       height="17.356043"
+       x="97.617157"
+       y="137.4514"
+       ry="1.1006272"
+       rx="1.0159636" />
+    <rect
+       style="fill:none;fill-rule:evenodd;stroke:#333333;stroke-width:0.203;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect1090"
+       width="11.260262"
+       height="6.0111175"
+       x="40.723206"
+       y="133.26054"
+       rx="1.0159636"
+       ry="1.1006271" />
+    <rect
+       style="fill:none;fill-rule:evenodd;stroke:#333333;stroke-width:0.203;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect1094"
+       width="11.937572"
+       height="6.0111175"
+       x="52.406784"
+       y="143.33553"
+       rx="1.0159636"
+       ry="1.1006268" />
+    <rect
+       style="fill:none;fill-rule:evenodd;stroke:#333333;stroke-width:0.203;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect1096"
+       width="11.598916"
+       height="5.5031357"
+       x="97.617157"
+       y="143.75883"
+       rx="1.0159636"
+       ry="1.1006268" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:2.82223px;line-height:1.25;font-family:Montserrat;-inkscape-font-specification:'Montserrat Medium';stroke-width:0.264583"
+       x="35.98204"
+       y="97.617157"
+       id="text1152"><tspan
+         sodipodi:role="line"
+         id="tspan1150"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:'Montserrat Medium';stroke-width:0.264583"
+         x="35.98204"
+         y="97.617157">User Computer</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.82223px;line-height:1.25;font-family:Montserrat;-inkscape-font-specification:'Montserrat Medium';stroke-width:0.264583;font-weight:500;font-style:normal;font-stretch:normal;font-variant:normal"
+       x="33.696125"
+       y="148.92331"
+       id="text1156"><tspan
+         sodipodi:role="line"
+         id="tspan1154"
+         style="stroke-width:0.264583;-inkscape-font-specification:'Montserrat Medium';font-family:Montserrat;font-weight:500;font-style:normal;font-stretch:normal;font-variant:normal"
+         x="33.696125"
+         y="148.92331">Device A</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:2.82223px;line-height:1.25;font-family:Montserrat;-inkscape-font-specification:'Montserrat Medium';stroke-width:0.264583"
+       x="111.67133"
+       y="147.23004"
+       id="text1160"><tspan
+         sodipodi:role="line"
+         id="tspan1158"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:'Montserrat Medium';stroke-width:0.264583"
+         x="111.67133"
+         y="147.23004">Device B</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.11667px;line-height:1.25;font-family:Montserrat;-inkscape-font-specification:Montserrat;stroke-width:0.264583"
+       x="43.686428"
+       y="136.90108"
+       id="text1214"><tspan
+         sodipodi:role="line"
+         id="tspan1212"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.11667px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Semi-Bold';stroke-width:0.264583"
+         x="43.686428"
+         y="136.90108">eth0</tspan></text>
+    <rect
+       style="fill:none;fill-rule:evenodd;stroke:#333333;stroke-width:0.203;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect1090-0"
+       width="11.260262"
+       height="6.0111175"
+       x="41.612175"
+       y="99.691429"
+       rx="1.0159636"
+       ry="1.1006271" />
+    <text
+       xml:space="preserve"
+       style="font-size:2.11667px;line-height:1.25;font-family:Montserrat;-inkscape-font-specification:Montserrat;stroke-width:0.264583"
+       x="44.575397"
+       y="103.33195"
+       id="text1214-4"><tspan
+         sodipodi:role="line"
+         id="tspan1212-6"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.11667px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Semi-Bold';stroke-width:0.264583"
+         x="44.575397"
+         y="103.33195">eth0</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:1.41111px;line-height:1.25;font-family:Montserrat;-inkscape-font-specification:Montserrat;text-align:center;text-anchor:middle;stroke-width:0.264583"
+       x="58.195671"
+       y="145.9601"
+       id="text1218"><tspan
+         sodipodi:role="line"
+         id="tspan1216"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:1.41111px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Semi-Bold';text-align:center;text-anchor:middle;stroke-width:0.264583"
+         x="58.195671"
+         y="145.9601">usb_rndis</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:1.41111px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Semi-Bold';text-align:center;text-anchor:middle;stroke-width:0.264583"
+         x="58.195671"
+         y="147.72398"
+         id="tspan1220">(usb0)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:1.41111px;line-height:1.25;font-family:Montserrat;-inkscape-font-specification:Montserrat;text-align:center;text-anchor:middle;stroke-width:0.264583"
+       x="103.16827"
+       y="146.24792"
+       id="text1218-1"><tspan
+         sodipodi:role="line"
+         id="tspan1216-1"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:1.41111px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Semi-Bold';text-align:center;text-anchor:middle;stroke-width:0.264583"
+         x="103.16827"
+         y="146.24792">usb_rndis</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:1.41111px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Semi-Bold';text-align:center;text-anchor:middle;stroke-width:0.264583"
+         x="103.16827"
+         y="148.01181"
+         id="tspan1220-0">(usb0)</tspan></text>
+    <path
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:0.529166, 0.264583;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#TriangleStart)"
+       d="m 65.952965,145.02879 29.970923,0.0847"
+       id="path1435"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0" />
+    <path
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:0.529166, 0.264583;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#TriangleStart-2)"
+       d="M 46.141676,132.15992 V 125.2175"
+       id="path1435-5"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0" />
+    <path
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:0.529166, 0.264583;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#marker1688)"
+       d="m 95.754561,147.73803 -29.462942,-0.0847"
+       id="path1654"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0" />
+    <rect
+       style="fill:none;fill-rule:evenodd;stroke:#333333;stroke-width:0.203;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:0.529167, 0.264583;stroke-dashoffset:0"
+       id="rect1764"
+       width="15.324116"
+       height="7.2810721"
+       x="39.453251"
+       y="115.98917"
+       rx="1.0159636"
+       ry="1.1006268" />
+    <text
+       xml:space="preserve"
+       style="font-size:2.82223px;line-height:1.25;font-family:Montserrat;-inkscape-font-specification:Montserrat;stroke-width:0.264583"
+       x="41.654503"
+       y="120.64567"
+       id="text1768"><tspan
+         sodipodi:role="line"
+         id="tspan1766"
+         style="stroke-width:0.264583"
+         x="41.654503"
+         y="120.64567">(router)</tspan></text>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.265;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-dasharray:0.52999997, 0.26499999;stroke-dashoffset:0;marker-end:url(#TriangleStart-2)"
+       d="m 48.088938,124.87885 v 7.02708"
+       id="path1964"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0" />
+    <path
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:0.529166, 0.264583;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#TriangleStart-2-4)"
+       d="m 46.01404,114.33749 v -6.94242"
+       id="path1435-5-2"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.265;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:0.53, 0.265;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#TriangleStart-2-4)"
+       d="m 47.961302,107.05642 v 7.02708"
+       id="path1964-1"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-size:2.82223px;line-height:1.25;font-family:Montserrat;-inkscape-font-specification:Montserrat;stroke-width:0.264583"
+       x="12.784207"
+       y="120.98433"
+       id="text2143"><tspan
+         sodipodi:role="line"
+         id="tspan2141"
+         style="stroke-width:0.264583"
+         x="12.784207"
+         y="120.98433">10.0.0.x network</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.11667px;line-height:1.25;font-family:Montserrat;-inkscape-font-specification:Montserrat;stroke-width:0.264583"
+       x="71.080894"
+       y="142.34219"
+       id="text2143-2"><tspan
+         sodipodi:role="line"
+         id="tspan2141-1"
+         style="font-size:2.11667px;stroke-width:0.264583"
+         x="71.080894"
+         y="142.34219">192.168.x.x network</tspan></text>
+  </g>
+</svg>
