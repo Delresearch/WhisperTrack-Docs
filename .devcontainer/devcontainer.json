@@ -1,7 +1,8 @@
 {
   "name": "MkDocs Material Dev Container",
   "build": {
-    "dockerfile": "Dockerfile"
+    "dockerfile": "Dockerfile",
+    "context": ".."
   },
   "workspaceFolder": "/workspace",
   "remoteUser": "vscode",
@@ -25,5 +26,5 @@
   "forwardPorts": [
     8000
   ],
-  "postCreateCommand": "sudo apk add --no-cache bash curl && curl -1sLf 'https://dl.cloudsmith.io/public/evilmartians/lefthook/setup.alpine.sh' | sudo -E bash && sudo apk add lefthook"
+  "postCreateCommand": "sudo apk add --no-cache bash curl && curl -1sLf 'https://dl.cloudsmith.io/public/evilmartians/lefthook/setup.alpine.sh' | sudo -E bash && sudo apk add lefthook && pip install --no-cache-dir -r requirements.txt"
 }
