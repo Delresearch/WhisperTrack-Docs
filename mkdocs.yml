@@ -7,6 +7,7 @@ theme:
     primary: blue
   features:
     - navigation.tabs
+    - content.code.copy
 extra_css:
   - assets/css/hide-nav-title.css
 markdown_extensions:
@@ -20,6 +21,7 @@ markdown_extensions:
         custom_icons:
           - overrides/.icons
   - attr_list
+  - pymdownx.superfences
 plugins:
   - search
   - awesome-nav
