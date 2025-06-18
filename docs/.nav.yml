@@ -1,8 +1,12 @@
-append_unmatched: true
 nav:
     - Home: index.md
+    - WhisperTrack Overview:
+        - how-whispertrack-works.md
+    - Software:
+        - software/getting-started-with-software.md
+        - software/*
     - Hardware:
         - hardware/*
-    - Software:
-        - software/*
     - "*"
+ignore:
+    - software/open-standard.md

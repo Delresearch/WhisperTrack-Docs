@@ -1,1 +1,6 @@
+mkdocs
+mkdocs-material
+pymdown-extensions
 mkdocs-awesome-nav
+mkdocs-pdf
+mkdocs-embed-external-markdown
