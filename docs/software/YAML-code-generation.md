@@ -1,0 +1,1 @@
+{{ external_markdown('https://raw.githubusercontent.com/Delresearch/WhisperTrack-Software/refs/heads/main/README.md', '## YAML based C++ code generation for unpacking bitfields in Fontus Acoustic Messages (FAM):') }}
