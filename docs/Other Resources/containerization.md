@@ -33,6 +33,6 @@ docker run hello
 ```
 ## Resources
 - [Docker Documentation](https://docs.docker.com/)
-- [Kubernetes Documentation](https://kubernetes.io/docs/)
 - [Podman Documentation](https://podman.io/get-started)
+- [Kubernetes Documentation](https://kubernetes.io/docs/)
 - [OpenShift Documentation](https://docs.redhat.com/en/documentation/openshift_container_platform)
