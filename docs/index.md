@@ -1,7 +1,7 @@
 # WhisperTrack Modem
 
 ## Mission Statement
-Helping the North Atlantic Right Whale and beyond
+Helping the North Atlantic Right Whale and beyond.
 
 ## Problem Statement
 The North Atlantic right whale migrates along the East Coast of the U.S. and Canada, directly through the New England commercial fisheries. The overlap of the whales' habitat with fishing areas increases the likelihood of entanglement in fishing gear. Because of their small population size, any deaths due to entanglement have a significant impact on the species' ability to recover. Recent studies show that the deaths from fishing gear entanglements exceed the population's reproductive rate.
