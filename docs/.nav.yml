@@ -1,13 +1,9 @@
 nav:
     - Home: 
         - index.md
-    - WhisperTrack Overview:
         - how-whispertrack-works.md
-    - Software:
-        - software/getting-started-with-software.md
-        - software/*
-    - Hardware:
-        - hardware/*
+    - software
+    - hardware
     - "*"
 ignore:
     - software/open-standard.md
