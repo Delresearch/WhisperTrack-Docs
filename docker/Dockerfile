@@ -1,16 +1,17 @@
 # Base Python image
-FROM python:3.12-alpine
+FROM python:3.12-slim
 # Install requirements for non-root user sudo privileges
 ARG USERNAME=mkdocs
-RUN apk update \
-    && apk add --no-cache \
+RUN apt-get update \
+    && apt-get install -y --no-install-recommends \
     sudo \
     git \
     curl \
     bash \
-    && rm -rf /var/cache/apk/*
+    && apt-get clean \
+    && rm -rf /var/lib/apt/lists/*
 # Create a non-root user with sudo privileges
-RUN adduser -D -s /bin/bash ${USERNAME} \
+RUN useradd -ms /bin/bash ${USERNAME} \
     && echo "${USERNAME} ALL=(ALL) NOPASSWD:ALL" >> /etc/sudoers \
     && mkdir -p /home/${USERNAME}/.local/bin \
     && chown -R ${USERNAME}:${USERNAME} /home/${USERNAME} \
