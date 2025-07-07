@@ -9,11 +9,11 @@ cd WhisperTrack-Docs
 ```
 #### Build the Docker Image
 ```bash
-docker build -t whispertrackdocs .
+docker build -t whispertrackdocs -f docker/Dockerfile .
 ```
 #### Run the container
 ```bash
-docker run -it --rm -p 8000:8000 -v $(pwd):/docs --name=whispertrackdocs whispertrackdocs serve -a 0.0.0.0:8000
+docker run -it --rm -p 8000:8000 --name=whispertrackdocs whispertrackdocs
 ```
 This will start the documentation server and make it available at `http://localhost:8000`.
 ## Development

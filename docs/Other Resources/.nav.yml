@@ -1,3 +1,4 @@
 nav:
+  - "*"
   - Containerization: containerization.md
   - Dev containers: dev-containers.md

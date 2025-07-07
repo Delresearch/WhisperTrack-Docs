@@ -1,13 +1,16 @@
 {
   "name": "MkDocs Material Dev Container",
   "build": {
-    "dockerfile": "Dockerfile",
-    "context": ".."
+    "dockerfile": "../docker/Dockerfile",
+    "context": "..",
+    "args": {
+      "USERNAME": "vscode"
+    }
   },
-  "workspaceFolder": "/workspace",
+  "workspaceFolder": "/app",
   "remoteUser": "vscode",
   // Mount the parent directory to the workspace
-  "workspaceMount": "source=${localWorkspaceFolder},target=/workspace,type=bind,consistency=cached",
+  "workspaceMount": "source=${localWorkspaceFolder},target=/app,type=bind,consistency=cached",
   "mounts": [
     "source=${env:HOME}/.ssh,target=/home/vscode/.ssh,type=bind,consistency=cached",
     "source=${env:HOME}/.gitconfig,target=/home/vscode/.gitconfig,type=bind,consistency=cached"
@@ -26,5 +29,6 @@
   "forwardPorts": [
     8000
   ],
-  "postCreateCommand": "sudo apk add --no-cache bash curl && curl -1sLf 'https://dl.cloudsmith.io/public/evilmartians/lefthook/setup.alpine.sh' | sudo -E bash && sudo apk add lefthook && pip install --no-cache-dir -r requirements.txt"
+  "onCreateCommand": "sudo apt update && sudo apt install -y openssh-client",
+  "postCreateCommand": "sudo apt-get update && sudo apt-get install -y bash curl && curl -1sLf 'https://dl.cloudsmith.io/public/evilmartians/lefthook/setup.deb.sh' | sudo -E bash && sudo apt-get install -y lefthook && pip install --no-cache-dir -r requirements.txt"
 }
