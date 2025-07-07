@@ -25,7 +25,7 @@ RUN pip install --upgrade pip \
 
 # Set working directory for the workspace
 WORKDIR /app
-
+COPY --chown=${USERNAME}:${USERNAME} . /app
 # Expose MkDocs dev server port
 EXPOSE 8000
 
