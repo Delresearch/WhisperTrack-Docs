@@ -8,6 +8,7 @@ theme:
   features:
     - navigation.tabs
     - content.code.copy
+    - toc.follow
   logo: "assets/images/popoto/popoto-logo-single-color-white.svg"
 extra_css:
   - assets/css/hide-nav-title.css

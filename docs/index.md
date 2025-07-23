@@ -18,8 +18,12 @@ To ensure accurate geolocation and seamless communication, the WhisperTrack ship
 ## Cost & Open Source Commitment
 One of the main goals of WhisperTrack is to reduce the cost barrier for entry. The target cost for the trap-side modem is under $200. The software running on the modem is completely Open Source and the API for communication is based on open standards.
 
+## FONTUS Spec
+The FONTUS Spec defines the open standard for on-demand gear location and retrieval, providing the foundation for safe, efficient, and interoperable fishing operations.  
+We highly recommend reviewing the [full specification](software/FONTUS-spec.md) to understand how it enables real-time gear tracking, lost gear recovery, and secure communication.
+
 ## Getting Started
-The WhisperTrack modem is comprised of two main components: the [software](software/getting-started-with-software.md) and the [hardware](hardware/getting-started-with-hardware.md). The software is responsible for controlling the modem and communicating with the ship-side system, while the hardware is responsible for the physical communication with the traps. If you are interested in learning more about how the technology works, please check out the [documentation](how-whispertrack-works.md) for more information.
+The WhisperTrack modem is comprised of two main components: the [software](software/getting-started-with-software.md) and the [hardware](hardware/TrapSideHardwareOverview.md). The software is responsible for controlling the modem and communicating with the ship-side system, while the hardware is responsible for the physical communication with the traps. If you are interested in learning more about how the technology works, please check out the [documentation](how-whispertrack-works.md) for more information.
 
 ## Custom Solutions & Add-On Services
 
