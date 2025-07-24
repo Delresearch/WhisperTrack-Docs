@@ -1,4 +1,5 @@
 nav:
-  - Getting Started with Hardware: getting-started-with-hardware.md
-  - Bill of Materials: BOM.md
+  - Trap-Side Hardware Overview: TrapSideHardwareOverview.md
+  - Trap-Side Hardware Design Files: DesignFiles.md
+  - Trap-Side Mounting Options: device-mount.md
   - "*"
