@@ -1,6 +1,4 @@
 # WhisperTrack Trap-Side Hardware Overview
-[TOC]
-
 ## WhisperTrack Trap-Side Hardware System Block Diagram
 
 ![image](../assets/files/WhisperTrack_TrapSide_Modem_Block_Diagram.png)

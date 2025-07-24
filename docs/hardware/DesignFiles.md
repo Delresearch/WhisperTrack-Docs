@@ -1,6 +1,4 @@
 # WhisperTrack Trap-Side Modem Hardware Design Files
-[TOC]
-
 ## Schematic
 
 The schematic for the WhisperTrack Trap-Side Modem printed circuit board (PCB) can be found [here](https://github.com/Delresearch/WhisperTrack-Hardware/tree/master/Schematic). The schematic is provided in PDF and Cadence OrCAD Capture v17.4 (.dsn) formats. 
