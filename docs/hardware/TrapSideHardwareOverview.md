@@ -15,7 +15,7 @@
 
 ![image](../assets/files/PCBA_bottom_iso.png)
 
-The above 3D renderings of the PCBA is shown with the piezoelectric tube mounted.
+The above 3D renderings of the PCBA are shown with the piezoelectric tube mounted.
 
 ## External Electrical Interface
 
