@@ -23,7 +23,7 @@ The FONTUS Spec defines the open standard for on-demand gear location and retrie
 We highly recommend reviewing the [full specification](software/FONTUS-spec.md) to understand how it enables real-time gear tracking, lost gear recovery, and secure communication.
 
 ## Getting Started
-The WhisperTrack modem is comprised of two main components: the [software](software/getting-started-with-software.md) and the [hardware](hardware/getting-started-with-hardware.md). The software is responsible for controlling the modem and communicating with the ship-side system, while the hardware is responsible for the physical communication with the traps. If you are interested in learning more about how the technology works, please check out the [documentation](how-whispertrack-works.md) for more information.
+The WhisperTrack modem is comprised of two main components: the [software](software/getting-started-with-software.md) and the [hardware](hardware/TrapSideHardwareOverview.md). The software is responsible for controlling the modem and communicating with the ship-side system, while the hardware is responsible for the physical communication with the traps. If you are interested in learning more about how the technology works, please check out the [documentation](how-whispertrack-works.md) for more information.
 
 ## Custom Solutions & Add-On Services
 
