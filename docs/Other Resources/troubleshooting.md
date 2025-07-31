@@ -1,0 +1,16 @@
+# Troubleshooting
+- Ensure transducer is plugged in
+- Ensure startrx is running by running startrx in the console
+- Reflash device
+- Use provided debug commands:
+    - fifo - Show free space in packed FIFO
+    - uptime - Show system uptime
+    - clk - Display system clock frequency
+    - cpu - Show FreeRTOS CPU usage per task
+    - stack - Show FreeRTOS task stack usage
+    - heap - Show FreeRTOS heap usage
+    - gpio - Control GPIO pins (gpio <port><pin> [0|1])
+    - help - Show available commands
+- Check the modem console for error messages or logs that may indicate issues with the connection or data transmission.
+- Ensure that the transducers are properly aligned and within range of each other.
+- Verify that the firmware on both modems is up to date and compatible with each other.
