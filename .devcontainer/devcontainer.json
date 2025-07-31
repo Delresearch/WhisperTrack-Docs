@@ -18,7 +18,12 @@
   "customizations": {
     "vscode": {
       "settings": {
-        "terminal.integrated.shell.linux": "/bin/bash"
+        "terminal.integrated.shell.linux": "/bin/bash",
+        "remote.extensionKind": {
+          "pomdtr.excalidraw-editor": [
+            "ui"
+          ]
+        }
       },
       "extensions": [
         "ms-python.python",
