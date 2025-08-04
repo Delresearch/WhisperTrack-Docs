@@ -29,6 +29,7 @@ plugins:
   - awesome-nav
   - mkdocs-pdf
   - external-markdown
+  - mkdocs-video
 extra:
   generator: false
 extra:
