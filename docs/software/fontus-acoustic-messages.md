@@ -1,6 +1,6 @@
 # Fontus Acoustic Messages (FAMs)
  
-Fontus Acoustic Messages (**FAMs**) are the standardized 64-bit packets used in the FONTUS underwater acoustic communication protocol. All messages follow the format defined in the [Fontus Bit Definitions Specification v0.3](https://whispertrackdocs.popotomodem.com/assets/files/fontus_bit_definitions_v0.1.pdf).
+Fontus Acoustic Messages (**FAMs**) are the standardized 64-bit packets used in the FONTUS underwater acoustic communication protocol. All messages follow the format defined in the [Fontus Bit Definitions Specification v0.3](../assets/files/fontus_bit_definitions_v0.1.pdf).
  
 ## Overview
  
