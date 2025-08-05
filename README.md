@@ -22,7 +22,7 @@ If you are using VSCode, you can use the dev container to run the documentation 
 1. Open the repository in VSCode.
 2. Install the Remote - Containers extension if you haven't already.
 3. Open the Command Palette (Ctrl+Shift+P) and select "Remote-Containers: Reopen in Container".
-4. Once the container is built, you can run the documentation server using the terminal inside the container:
+4. Once the container is built, the documentation server should start automatically on port 8000. If it doesn't, using the terminal inside the container, run:
 ```bash
 mkdocs serve
 ```
