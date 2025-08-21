@@ -4,3 +4,4 @@ pymdown-extensions
 mkdocs-awesome-nav
 mkdocs-pdf
 mkdocs-embed-external-markdown
+mkdocs-video

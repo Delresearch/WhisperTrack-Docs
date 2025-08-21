@@ -18,7 +18,12 @@
   "customizations": {
     "vscode": {
       "settings": {
-        "terminal.integrated.shell.linux": "/bin/bash"
+        "terminal.integrated.shell.linux": "/bin/bash",
+        "remote.extensionKind": {
+          "pomdtr.excalidraw-editor": [
+            "ui"
+          ]
+        }
       },
       "extensions": [
         "ms-python.python",
@@ -30,5 +35,6 @@
     8000
   ],
   "onCreateCommand": "sudo apt update && sudo apt install -y openssh-client",
-  "postCreateCommand": "sudo apt-get update && sudo apt-get install -y bash curl && curl -1sLf 'https://dl.cloudsmith.io/public/evilmartians/lefthook/setup.deb.sh' | sudo -E bash && sudo apt-get install -y lefthook && pip install --no-cache-dir -r requirements.txt"
+  "postCreateCommand": "sudo apt-get update && sudo apt-get install -y bash curl && curl -1sLf 'https://dl.cloudsmith.io/public/evilmartians/lefthook/setup.deb.sh' | sudo -E bash && sudo apt-get install -y lefthook && pip install --no-cache-dir -r requirements.txt",
+  "postAttachCommand": "mkdocs serve"
 }

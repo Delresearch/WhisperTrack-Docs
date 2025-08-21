@@ -1,3 +1,4 @@
+# How WhisperTrack Works
 ## Overview
 WhisperTrack is an innovative solution designed to enhance the safety and efficiency of rope-less fishing, particularly for the North Atlantic Right Whale. By integrating advanced acoustic modem technology with a ship-side USBL system, WhisperTrack provides a reliable and cost-effective method for trap retrieval without the risks associated with traditional fishing gear.
 ## WhisperTrack Components

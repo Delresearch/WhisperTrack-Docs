@@ -1,4 +1,4 @@
-site_name: "WhisperTrack Docs"
+site_name: "WhisperTrack Documentation"
 docs_dir: "docs"
 theme:
   name: material
@@ -29,6 +29,7 @@ plugins:
   - awesome-nav
   - mkdocs-pdf
   - external-markdown
+  - mkdocs-video
 extra:
   generator: false
 extra:
