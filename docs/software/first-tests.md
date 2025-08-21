@@ -4,7 +4,7 @@
 - Ensure that the modems are connected to the transducers and powered on.
 - Place the transducers 6 inches apart.
 ## Testing
-- Open the modem console for the device that will be acting at the receiver to monitor the incoming data.
+- Open the modem console for the device that will be acting as the receiver to monitor the incoming data.
 - Open the modem console for the device that will be acting as the transmitter.
 - In the transmitter console, enter the command `starttx` with a message to send.
 - Observe the receiver console for the incoming message and verify the CRC pass with a response message to the transmitter.

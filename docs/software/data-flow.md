@@ -13,7 +13,7 @@ Core modem engine that implements the [Fontus acoustic protocol](../software/fon
 ## Encode
 Implements the Fontus TX state machine to generate wake chirps, doppler chirps, and BFSK-modulated data as 16-bit PCM samples.
 ## Tx DMA Driver
-Transfers the encoded waveform data to the DAC at 64 kHz using timer-triggered DMA. Manages  transmit buffer for complete message transmission.
+Transfers the encoded waveform data to the DAC at 64 kHz using timer-triggered DMA. Manages transmit buffer for complete message transmission.
 
 ## Flow Diagram
 ![dataflow](../assets/images/software/data_flow.png)
