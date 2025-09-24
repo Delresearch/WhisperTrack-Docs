@@ -40,4 +40,4 @@
 ## Technical Message Format Reference
 
 For detailed information on the FONTUS acoustic message bit definitions and protocol,  
-see the [FONTUS Bit Definitions](../assets/files/fontus_bit_definitions_v0.1.pdf) document.
+see the [FONTUS Bit Definitions](../assets/files/fontus_bit_definitions_v1.0.pdf) document.
