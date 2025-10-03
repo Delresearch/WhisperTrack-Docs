@@ -1,19 +1,25 @@
 # WhisperTrack Trap-Side Hardware Overview
 ## WhisperTrack Trap-Side Hardware System Block Diagram
 
-![image](../assets/files/WhisperTrack_TrapSide_Modem_Block_Diagram.png)
+![image](../assets/images/hardware/WhisperTrack_TrapSide_Modem_Block_Diagram.png)
 
 ## Trap-Side Printed Circuit Board Assembly (PCBA) 3D Renderings
 
-![image](../assets/files/PCBA_top.png)
+![image](../assets/images/hardware/PCBA_top.png)
 
-![image](../assets/files/PCBA_top_iso.png)
+![image](../assets/images/hardware/PCBA_top_iso.png)
 
-![image](../assets/files/PCBA_bottom.png)
+![image](../assets/images/hardware/PCBA_bottom.png)
 
-![image](../assets/files/PCBA_bottom_iso.png)
+![image](../assets/images/hardware/PCBA_bottom_iso.png)
 
 The above 3D renderings of the PCBA are shown with the piezoelectric tube mounted.
+
+## Trap-Side Modem Photos
+
+![image](../assets/images/hardware/modem-no-ring-bottom.png)
+
+![image](../assets/images/hardware/modem-bottom-angled.png)
 
 ## External Electrical Interface
 
