@@ -10,6 +10,6 @@
 - Observe the receiver console for the incoming message and verify the CRC pass with a response message to the transmitter.
 - Repeat the process with different messages to ensure consistent communication.
  
-![Demo](../assets/files/WhisperTrackTestDemo.gif)
+![Demo](../assets/images/WhisperTrackTestDemo.gif)
 
 If the messages are not received or the CRC fails there are some troubleshooting steps you can find [here](../Other%20Resources/troubleshooting.md).
