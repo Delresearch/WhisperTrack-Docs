@@ -30,11 +30,11 @@ The external electrical interface of the WhisperTrack Trap-Side Modem consists o
 | 1 | BLACK | GND | 0VDC |
 | 2 | BROWN | BOOT0_N | Connect to GND before power up to put modem in ROM bootloader mode |
 | 3 | RED | VIN | +12 VDC to +42 VDC |
-| 4 | ORANGE | UART RXD | +1.85V logic level |
-| 5 | YELLOW | UART TXD | +1.85V logic level |
+| 4 | ORANGE | RS-232 RXD | RS-232-compliant voltage levels |
+| 5 | YELLOW | RS-232 TXD | RS-232-compliant voltage levels |
 | 6 | GREEN | Trigger | Diode-blocked internal pull-up to +1.85V. Allowable external pull-up to +50V |
 
-One method to communicate with the Trap-Side Modem via UART is by using a +1.8V-logic level USB-to-UART adapter cable, such as [FTDI TTL-232RG-VREG1V8-WE](https://ftdichip.com/products/ttl-232rg-vreg1v8-we/). If using this adapter cable, then BLACK, ORANGE, & YELLOW wires can be connected directly together between the Trap-Side Modem and the adapter cable.
+One method to communicate with the Trap-Side Modem via RS-232 is by using a USB-to-RS232 adapter cable, such as [FTDI USB-RS232-WE-1800-BT_5.0](https://ftdichip.com/products/usb-rs232-we-1800-bt_5-0/). If using this adapter cable, then BLACK, ORANGE, & YELLOW wires can be connected directly together between the Trap-Side Modem and the adapter cable.
 
 ## Transmit Amplitude
 
