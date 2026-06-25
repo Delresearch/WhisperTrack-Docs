@@ -46,4 +46,19 @@ Coming Soon!
 
 ## Hardware Costs
 
-Details Coming Soon!
+Quotes based on 068-0098-00 hardware from July 2025 at both Domestic (USA) and China-based contract manufacturers. No tariffs are included in these cost figures.
+
+| Part Number | Description | Domestic Qty 12 Unit Cost | Domestic Qty 100 Unit Cost | Domestic Qty 1000 Unit Cost | China Qty 12 Unit Cost | China Qty 100 Unit Cost | China Qty 1000 Unit Cost |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 050-0098-00 | PCB JMJ POPOTO WHISPERTRACK MODEM BOARD | $90.32 | $13.60 | $5.60 | $30.00 | $5.03 | $2.54 |
+| 094-0098-00 | ELEC BOM JMJ POPOTO WHISPERTRACK MODEM BOARD | $102.80 | $88.33 | $56.53 | $102.22 | $68.68 | $56.03 |
+| 068-0098-00 | JMJ POPOTO WHISPERTRACK MODEM BOARD - ADDITIONAL ASSEMBLY COSTS | $219.41 | $82.95 | $44.14 | $21.73 | $5.62 | $2.56 |
+|  | 068-0098-00 SUBTOTAL (UNIT COST) | $412.53 | $184.88 | $106.27 | $153.95 | $79.33 | $61.13 |
+|  | 068-0098-00 SUBTOTAL (TOTAL COST) | $4,950.38 | $18,487.60 | $106,265.60 | $1,847.37 | $7,933.37 | $61,129.00 |
+| 014-0066-00 | Piezo Cylinder:<br>C-38.00mm-34.00mm-25.00mm-Type II (ID +)<br>OD±0.35mm ID±0.35mm Ln±0.15mm <br>APC International 42-1052 | $71.98 | $57.97 | $46.06 | $71.98 | $57.97 | $46.06 |
+| 036-0020-00 | CABLE 6COND 22AWG BLK SHLD FEET | $9.08 | $7.15 | $6.12 | $9.08 | $7.15 | $6.12 |
+| TBD | Potting Material |  |  |  |  |  |  |
+| TBD | 3D print mounting flange |  |  |  |  |  |  |
+| TBD | 3D print potting mold |  |  |  |  |  |  |
+|  | **Grand Total Unit Cost** | **$493.59** | **$250.00** | **$158.45** | **$235.00** | **$144.46** | **$113.31** |
+|  | **Grand Total Cost** | **$5,923.04** | **$24,999.87** | **$158,449.85** | **$2,820.03** | **$14,445.64** | **$113,313.25** |
