@@ -42,7 +42,7 @@ The Trap-Side Modem's transmit amplitude is directly set by the boost converter'
 
 ## Power Consumption
 
-Coming Soon!
+With the minimum supply voltage of 12V, the power consumption during Receive mode is approximately 15mW using the 068-0098-00 hardware. 
 
 ## Hardware Costs
 
