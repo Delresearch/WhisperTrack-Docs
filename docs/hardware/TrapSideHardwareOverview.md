@@ -17,7 +17,9 @@ The above 3D renderings of the PCBA are shown with the piezoelectric tube mounte
 
 ## Trap-Side Modem Photos
 
-![image](../assets/images/hardware/modem-no-ring-bottom.png)
+![image](../assets/images/hardware/nfwf_board_bottom.png)
+
+![image](../assets/images/hardware/nfwf_board_top.png)
 
 ![image](../assets/images/hardware/modem-bottom-angled.png)
 
